@@ -1,7 +1,7 @@
 #!/bin/bash
 
 while true; do
-	echo "$(cat volume)"
+	echo "$(cat main)"
 	sleep 1s
 done
 
