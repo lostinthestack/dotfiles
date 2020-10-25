@@ -10,4 +10,7 @@
 	- [ ] Implement a method for styling.
 	- [ ] Test parsing.
 
+### Notes :
+
+* Some scripts are currently placeholders and do not contain what will be their final code.
 
