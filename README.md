@@ -14,7 +14,7 @@ This will be a testing repository for :
 Something to look at before you delve into the files :
 ![bar]
 * **Status bar**
-  * This is the bar at the top of the screen.  bar.sh is piped into LemonBar.
+  * This is the bar at the top of the screen.  [bar.sh] is piped into LemonBar.
   * Goals here are to : 
     * optimize the script with a more appropriate update loop
     * create a parsing system to streamline styling for color, orientation, etc.
@@ -36,3 +36,4 @@ Something to look at before you delve into the files :
 
 [bar]: https://github.com/lostinthestack/dotfiles/blob/main/bar.png?raw=true
 [screen]: https://github.com/lostinthestack/dotfiles/blob/main/screen.png?raw=true
+[bar.sh]: https://github.com/lostinthestack/dotfiles/blob/main/.scripts/bar.sh
